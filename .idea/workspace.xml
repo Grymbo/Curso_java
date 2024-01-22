@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea2c770-246b-48dc-96a9-5a437e892bef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/miNombre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onePiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onePiece.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,8 @@
     "Application.HolaMundo.executor": "Run",
     "Application.JavierGonzalez.executor": "Run",
     "Application.OnePiece.executor": "Run",
+    "Application.miNombre.executor": "Run",
+    "Application.onePiece.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -46,7 +48,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.onePiece">
+  <component name="RunManager" selected="Application.miNombre">
     <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HolaMundo" />
       <module name="HolaMundo" />
@@ -68,6 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="miNombre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miNombre" />
+      <module name="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="onePiece" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="onePiece" />
       <module name="HolaMundo" />
@@ -77,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.miNombre" />
         <item itemvalue="Application.onePiece" />
         <item itemvalue="Application.HolaMundo" />
         <item itemvalue="Application.JavierGonzalez" />
