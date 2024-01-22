@@ -1,5 +1,12 @@
 public class HolaMundo {
     public static void main(String[] args){
-        System.out.println("Hola mundo desde java");
+        String saludar = "Hola mundo desde java";
+
+        System.out.println(saludar);
+        System.out.println(saludar.toUpperCase());
+
+        int numero = 10;
+        System.out.println("numero = " + numero);
+
     }
 }

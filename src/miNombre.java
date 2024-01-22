@@ -1,5 +1,10 @@
 public class miNombre {
     public static void main(String[] arg){
-        System.out.println("Hola soy Javier Gonzalez");
+        String nombre = "Hola soy Javier Gonzalez";
+
+        System.out.println(nombre);
+        System.out.println(nombre.toLowerCase());
+        int number = 18;
+        System.out.println("number = " + number);
     }
 }

@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea2c770-246b-48dc-96a9-5a437e892bef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/miNombre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HolaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miNombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miNombre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onePiece.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.miNombre">
+  <component name="RunManager" selected="Application.OnePiece">
     <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HolaMundo" />
       <module name="HolaMundo" />
@@ -86,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.miNombre" />
-        <item itemvalue="Application.onePiece" />
-        <item itemvalue="Application.HolaMundo" />
-        <item itemvalue="Application.JavierGonzalez" />
         <item itemvalue="Application.OnePiece" />
+        <item itemvalue="Application.miNombre" />
+        <item itemvalue="Application.HolaMundo" />
+        <item itemvalue="Application.onePiece" />
+        <item itemvalue="Application.JavierGonzalez" />
       </list>
     </recent_temporary>
   </component>
