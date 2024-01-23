@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea2c770-246b-48dc-96a9-5a437e892bef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/PC.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Primitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosFloat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HolaMundo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
     "Application.JavierGonzalez.executor": "Run",
     "Application.OnePiece.executor": "Run",
     "Application.Primitivos.executor": "Run",
+    "Application.PrimitivosFloat.executor": "Run",
     "Application.miNombre.executor": "Run",
     "Application.onePiece.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -53,7 +52,7 @@
     "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Primitivos">
+  <component name="RunManager" selected="Application.PrimitivosFloat">
     <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HolaMundo" />
       <module name="HolaMundo" />
@@ -75,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimitivosFloat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosFloat" />
+      <module name="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="miNombre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="miNombre" />
       <module name="HolaMundo" />
@@ -82,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="onePiece" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="onePiece" />
-      <module name="HolaMundo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitivosFloat" />
         <item itemvalue="Application.Primitivos" />
         <item itemvalue="Application.HolaMundo" />
         <item itemvalue="Application.OnePiece" />
         <item itemvalue="Application.miNombre" />
-        <item itemvalue="Application.onePiece" />
       </list>
     </recent_temporary>
   </component>
