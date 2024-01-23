@@ -5,8 +5,16 @@ public class HolaMundo {
         System.out.println(saludar);
         System.out.println(saludar.toUpperCase());
 
-        int numero = 10;
+        int numero = 11;
         System.out.println("numero = " + numero);
-
+        
+        String nombre;
+        
+        nombre = "Luffy";
+        
+        if(numero > 10) {
+            nombre = "Zoro";
+        }
+        System.out.println("nombre = " + nombre);
     }
 }
