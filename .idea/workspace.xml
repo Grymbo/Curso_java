@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea2c770-246b-48dc-96a9-5a437e892bef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemasNumericos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Caracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitivosCaracteres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Primitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitivosEnteros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +44,7 @@
     "Application.OnePiece.executor": "Run",
     "Application.Primitivos.executor": "Run",
     "Application.PrimitivosFloat.executor": "Run",
+    "Application.SistemasNumericos.executor": "Run",
     "Application.miNombre.executor": "Run",
     "Application.onePiece.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -52,14 +58,7 @@
     "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Caracteres">
-    <configuration name="Caracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Caracteres" />
-      <module name="HolaMundo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SistemasNumericos">
     <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HolaMundo" />
       <module name="HolaMundo" />
@@ -67,15 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnePiece" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OnePiece" />
+    <configuration name="PrimitivosCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosCaracteres" />
       <module name="HolaMundo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Primitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Primitivos" />
+    <configuration name="PrimitivosEnteros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosEnteros" />
       <module name="HolaMundo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +87,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SistemasNumericos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemasNumericos" />
+      <module name="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Caracteres" />
+        <item itemvalue="Application.SistemasNumericos" />
+        <item itemvalue="Application.PrimitivosCaracteres" />
         <item itemvalue="Application.PrimitivosFloat" />
-        <item itemvalue="Application.Primitivos" />
+        <item itemvalue="Application.PrimitivosEnteros" />
         <item itemvalue="Application.HolaMundo" />
-        <item itemvalue="Application.OnePiece" />
       </list>
     </recent_temporary>
   </component>
